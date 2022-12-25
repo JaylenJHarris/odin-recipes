@@ -1,3 +1,22 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+#big-heading{
+    margin-right: 2%;
+    text-align: right;
+}
+#image{
+    display: block;
+    min-width: 15rem;
+    max-width: 35rem;
+    height: auto;
+    margin: 0 auto;
+}
+.small-heading{
+    text-align: center;
+}
 #steps{
-    font-size: 160px;
+    font-size: px;
 }
